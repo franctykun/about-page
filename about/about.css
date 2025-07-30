@@ -97,14 +97,14 @@ nav ul li a:active {
 
 .about-overlay-text {
   color: rgb(255, 0, 0);
-  padding: 60px 50px;
+  padding: 100px 600px;
   border-radius: 5px;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.5);
 }
 
 .about-overlay-text h1 {
-  font-size: 3rem;
+  font-size: 5rem;
   margin: 0;
   letter-spacing: 2px;
 }
